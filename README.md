@@ -38,6 +38,6 @@ TaiMountain 是一个自动化运维运维平台系统。希望通过该系统�
 感谢所有人对本项目的做出的贡献！
 
 - [DeanWu](https://github.com/pylixm)
-- [ikeaforever](https://github.com/ikeaforever)
+- [SKiler](https://github.com/ikeaforever)
 
 
