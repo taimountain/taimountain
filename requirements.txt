@@ -1,0 +1,2 @@
+# core requirements
+apistar==0.5.41
